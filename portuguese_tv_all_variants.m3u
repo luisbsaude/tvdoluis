@@ -1,0 +1,582 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="abolatv" tvg-name="A Bola TV (Normal)" group-title="Sports Variants",A Bola TV (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/abolatv.m3u8
+
+#EXTINF:-1 tvg-id="abolatv" tvg-name="A Bola TV (Normal)" group-title="Sports Variants",A Bola TV (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/abolatv.m3u8
+
+#EXTINF:-1 tvg-id="btv1" tvg-name="BTV (Low Latency)" group-title="Sports Variants",BTV (Low Latency 1/11)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/btv1.m3u8
+
+#EXTINF:-1 tvg-id="btv1" tvg-name="BTV (Low Latency)" group-title="Sports Variants",BTV (Low Latency 2/11)
+https://4.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/btv1.m3u8
+
+#EXTINF:-1 tvg-id="btv1" tvg-name="BTV (Low Latency)" group-title="Sports Variants",BTV (Low Latency 3/11)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/btv1.m3u8
+
+#EXTINF:-1 tvg-id="btv1" tvg-name="BTV (Normal)" group-title="Sports Variants",BTV (Normal 4/11)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/btv1.m3u8
+
+#EXTINF:-1 tvg-id="btv1" tvg-name="BTV (Normal)" group-title="Sports Variants",BTV (Normal 5/11)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/btv1.m3u8
+
+#EXTINF:-1 tvg-id="btv1" tvg-name="BTV (Normal)" group-title="Sports Variants",BTV (Normal 6/11)
+https://lb2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/btv1.m3u8
+
+#EXTINF:-1 tvg-id="btv1" tvg-name="BTV (Normal)" group-title="Sports Variants",BTV (Normal 7/11)
+https://lb2s1.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/btv1.m3u8
+
+#EXTINF:-1 tvg-id="btv1" tvg-name="BTV (Backup)" group-title="Sports Variants",BTV (Backup 8/11)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/btv1backup.m3u8
+
+#EXTINF:-1 tvg-id="btv1" tvg-name="BTV (Backup)" group-title="Sports Variants",BTV (Backup 9/11)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/btv1backup.m3u8
+
+#EXTINF:-1 tvg-id="btv1" tvg-name="BTV (Backup)" group-title="Sports Variants",BTV (Backup 10/11)
+https://lb2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/btv1backup.m3u8
+
+#EXTINF:-1 tvg-id="btv1" tvg-name="BTV (Backup)" group-title="Sports Variants",BTV (Backup 11/11)
+https://lb2s1.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/btv1backup.m3u8
+
+#EXTINF:-1 tvg-id="11" tvg-name="Canal 11 (Normal)" group-title="Sports Variants",Canal 11 (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/11.m3u8
+
+#EXTINF:-1 tvg-id="11" tvg-name="Canal 11 (Normal)" group-title="Sports Variants",Canal 11 (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/11.m3u8
+
+#EXTINF:-1 tvg-id="elevensports1" tvg-name="DAZN 1 (Normal)" group-title="Sports Variants",DAZN 1 (Normal 1/3)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports1.m3u8
+
+#EXTINF:-1 tvg-id="elevensports1" tvg-name="DAZN 1 (Normal)" group-title="Sports Variants",DAZN 1 (Normal 2/3)
+https://4.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports1.m3u8
+
+#EXTINF:-1 tvg-id="elevensports1" tvg-name="DAZN 1 (Normal)" group-title="Sports Variants",DAZN 1 (Normal 3/3)
+https://lb1s1.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports1.m3u8
+
+#EXTINF:-1 tvg-id="elevensports2" tvg-name="DAZN 2 (Normal)" group-title="Sports Variants",DAZN 2 (Normal 1/3)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports2.m3u8
+
+#EXTINF:-1 tvg-id="elevensports2" tvg-name="DAZN 2 (Normal)" group-title="Sports Variants",DAZN 2 (Normal 2/3)
+https://4.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports2.m3u8
+
+#EXTINF:-1 tvg-id="elevensports2" tvg-name="DAZN 2 (Normal)" group-title="Sports Variants",DAZN 2 (Normal 3/3)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports2.m3u8
+
+#EXTINF:-1 tvg-id="elevensports3" tvg-name="DAZN 3 (Normal)" group-title="Sports Variants",DAZN 3 (Normal 1/3)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports3.m3u8
+
+#EXTINF:-1 tvg-id="elevensports3" tvg-name="DAZN 3 (Normal)" group-title="Sports Variants",DAZN 3 (Normal 2/3)
+https://4.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports3.m3u8
+
+#EXTINF:-1 tvg-id="elevensports3" tvg-name="DAZN 3 (Normal)" group-title="Sports Variants",DAZN 3 (Normal 3/3)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports3.m3u8
+
+#EXTINF:-1 tvg-id="elevensports4" tvg-name="DAZN 4 (Normal)" group-title="Sports Variants",DAZN 4 (Normal 1/3)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports4.m3u8
+
+#EXTINF:-1 tvg-id="elevensports4" tvg-name="DAZN 4 (Normal)" group-title="Sports Variants",DAZN 4 (Normal 2/3)
+https://4.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports4.m3u8
+
+#EXTINF:-1 tvg-id="elevensports4" tvg-name="DAZN 4 (Normal)" group-title="Sports Variants",DAZN 4 (Normal 3/3)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports4.m3u8
+
+#EXTINF:-1 tvg-id="elevensports5" tvg-name="DAZN 5 (Normal)" group-title="Sports Variants",DAZN 5 (Normal 1/3)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports5.m3u8
+
+#EXTINF:-1 tvg-id="elevensports5" tvg-name="DAZN 5 (Normal)" group-title="Sports Variants",DAZN 5 (Normal 2/3)
+https://4.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports5.m3u8
+
+#EXTINF:-1 tvg-id="elevensports5" tvg-name="DAZN 5 (Normal)" group-title="Sports Variants",DAZN 5 (Normal 3/3)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports5.m3u8
+
+#EXTINF:-1 tvg-id="eurosport" tvg-name="Eurosport 1 (Normal)" group-title="Sports Variants",Eurosport 1 (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/eurosport.m3u8
+
+#EXTINF:-1 tvg-id="eurosport" tvg-name="Eurosport 1 (Normal)" group-title="Sports Variants",Eurosport 1 (Normal 2/2)
+https://lb1s1.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/eurosport.m3u8
+
+#EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2 (Normal)" group-title="Sports Variants",Eurosport 2 (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/eurosport2.m3u8
+
+#EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2 (Normal)" group-title="Sports Variants",Eurosport 2 (Normal 2/2)
+https://lb1s1.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/eurosport2.m3u8
+
+#EXTINF:-1 tvg-id="sporttvmais" tvg-name="Sport TV + (Normal)" group-title="Sports Variants",Sport TV + (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttvmais.m3u8
+
+#EXTINF:-1 tvg-id="sporttvmais" tvg-name="Sport TV + (Normal)" group-title="Sports Variants",Sport TV + (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttvmais.m3u8
+
+#EXTINF:-1 tvg-id="sporttv1" tvg-name="Sport TV 1 (Low Latency)" group-title="Sports Variants",Sport TV 1 (Low Latency 1/11)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/sporttv1.m3u8
+
+#EXTINF:-1 tvg-id="sporttv1" tvg-name="Sport TV 1 (Low Latency)" group-title="Sports Variants",Sport TV 1 (Low Latency 2/11)
+https://4.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/sporttv1.m3u8
+
+#EXTINF:-1 tvg-id="sporttv1" tvg-name="Sport TV 1 (Low Latency)" group-title="Sports Variants",Sport TV 1 (Low Latency 3/11)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/sporttv1.m3u8
+
+#EXTINF:-1 tvg-id="sporttv1" tvg-name="Sport TV 1 (Normal)" group-title="Sports Variants",Sport TV 1 (Normal 4/11)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv1.m3u8
+
+#EXTINF:-1 tvg-id="sporttv1" tvg-name="Sport TV 1 (Normal)" group-title="Sports Variants",Sport TV 1 (Normal 5/11)
+https://lb2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv1.m3u8
+
+#EXTINF:-1 tvg-id="sporttv1" tvg-name="Sport TV 1 (Normal)" group-title="Sports Variants",Sport TV 1 (Normal 6/11)
+https://lb2s1.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv1.m3u8
+
+#EXTINF:-1 tvg-id="sporttv1" tvg-name="Sport TV 1 (Normal)" group-title="Sports Variants",Sport TV 1 (Normal 7/11)
+https://lb1s1.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv1.m3u8
+
+#EXTINF:-1 tvg-id="sporttv1" tvg-name="Sport TV 1 (Backup)" group-title="Sports Variants",Sport TV 1 (Backup 8/11)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv1backup.m3u8
+
+#EXTINF:-1 tvg-id="sporttv1" tvg-name="Sport TV 1 (Backup)" group-title="Sports Variants",Sport TV 1 (Backup 9/11)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv1backup.m3u8
+
+#EXTINF:-1 tvg-id="sporttv1" tvg-name="Sport TV 1 (Backup)" group-title="Sports Variants",Sport TV 1 (Backup 10/11)
+https://lb2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv1backup.m3u8
+
+#EXTINF:-1 tvg-id="sporttv1" tvg-name="Sport TV 1 (Backup)" group-title="Sports Variants",Sport TV 1 (Backup 11/11)
+https://lb2s1.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv1backup.m3u8
+
+#EXTINF:-1 tvg-id="sporttv2" tvg-name="Sport TV 2 (Low Latency)" group-title="Sports Variants",Sport TV 2 (Low Latency 1/7)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/sporttv2.m3u8
+
+#EXTINF:-1 tvg-id="sporttv2" tvg-name="Sport TV 2 (Low Latency)" group-title="Sports Variants",Sport TV 2 (Low Latency 2/7)
+https://4.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/sporttv2.m3u8
+
+#EXTINF:-1 tvg-id="sporttv2" tvg-name="Sport TV 2 (Low Latency)" group-title="Sports Variants",Sport TV 2 (Low Latency 3/7)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/sporttv2.m3u8
+
+#EXTINF:-1 tvg-id="sporttv2" tvg-name="Sport TV 2 (Normal)" group-title="Sports Variants",Sport TV 2 (Normal 4/7)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv2.m3u8
+
+#EXTINF:-1 tvg-id="sporttv2" tvg-name="Sport TV 2 (Normal)" group-title="Sports Variants",Sport TV 2 (Normal 5/7)
+https://3.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv2.m3u8
+
+#EXTINF:-1 tvg-id="sporttv2" tvg-name="Sport TV 2 (Normal)" group-title="Sports Variants",Sport TV 2 (Normal 6/7)
+https://lb2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv2.m3u8
+
+#EXTINF:-1 tvg-id="sporttv2" tvg-name="Sport TV 2 (Normal)" group-title="Sports Variants",Sport TV 2 (Normal 7/7)
+https://lb2s1.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv2.m3u8
+
+#EXTINF:-1 tvg-id="sporttv3" tvg-name="Sport TV 3 (Normal)" group-title="Sports Variants",Sport TV 3 (Normal 1/5)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv3.m3u8
+
+#EXTINF:-1 tvg-id="sporttv3" tvg-name="Sport TV 3 (Normal)" group-title="Sports Variants",Sport TV 3 (Normal 2/5)
+https://4.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv3.m3u8
+
+#EXTINF:-1 tvg-id="sporttv3" tvg-name="Sport TV 3 (Normal)" group-title="Sports Variants",Sport TV 3 (Normal 3/5)
+https://lb2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv3.m3u8
+
+#EXTINF:-1 tvg-id="sporttv3" tvg-name="Sport TV 3 (Normal)" group-title="Sports Variants",Sport TV 3 (Normal 4/5)
+https://lb2s1.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv3.m3u8
+
+#EXTINF:-1 tvg-id="sporttv3" tvg-name="Sport TV 3 (Normal)" group-title="Sports Variants",Sport TV 3 (Normal 5/5)
+https://lb1s1.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv3.m3u8
+
+#EXTINF:-1 tvg-id="sporttv4" tvg-name="Sport TV 4 (Low Latency)" group-title="Sports Variants",Sport TV 4 (Low Latency 1/5)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/sporttv4.m3u8
+
+#EXTINF:-1 tvg-id="sporttv4" tvg-name="Sport TV 4 (Low Latency)" group-title="Sports Variants",Sport TV 4 (Low Latency 2/5)
+https://4.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/sporttv4.m3u8
+
+#EXTINF:-1 tvg-id="sporttv4" tvg-name="Sport TV 4 (Low Latency)" group-title="Sports Variants",Sport TV 4 (Low Latency 3/5)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/sporttv4.m3u8
+
+#EXTINF:-1 tvg-id="sporttv4" tvg-name="Sport TV 4 (Normal)" group-title="Sports Variants",Sport TV 4 (Normal 4/5)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv4.m3u8
+
+#EXTINF:-1 tvg-id="sporttv4" tvg-name="Sport TV 4 (Normal)" group-title="Sports Variants",Sport TV 4 (Normal 5/5)
+https://3.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv4.m3u8
+
+#EXTINF:-1 tvg-id="sporttv5" tvg-name="Sport TV 5 (Low Latency)" group-title="Sports Variants",Sport TV 5 (Low Latency 1/9)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/sporttv5.m3u8
+
+#EXTINF:-1 tvg-id="sporttv5" tvg-name="Sport TV 5 (Low Latency)" group-title="Sports Variants",Sport TV 5 (Low Latency 2/9)
+https://4.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/sporttv5.m3u8
+
+#EXTINF:-1 tvg-id="sporttv5" tvg-name="Sport TV 5 (Low Latency)" group-title="Sports Variants",Sport TV 5 (Low Latency 3/9)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/sporttv5.m3u8
+
+#EXTINF:-1 tvg-id="sporttv5" tvg-name="Sport TV 5 (Normal)" group-title="Sports Variants",Sport TV 5 (Normal 4/9)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv5.m3u8
+
+#EXTINF:-1 tvg-id="sporttv5" tvg-name="Sport TV 5 (Normal)" group-title="Sports Variants",Sport TV 5 (Normal 5/9)
+https://3.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv5.m3u8
+
+#EXTINF:-1 tvg-id="sporttv5" tvg-name="Sport TV 5 (Normal)" group-title="Sports Variants",Sport TV 5 (Normal 6/9)
+https://lb2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv5.m3u8
+
+#EXTINF:-1 tvg-id="sporttv5" tvg-name="Sport TV 5 (Normal)" group-title="Sports Variants",Sport TV 5 (Normal 7/9)
+https://lb2s1.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv5.m3u8
+
+#EXTINF:-1 tvg-id="sporttv5" tvg-name="Sport TV 5 (Backup)" group-title="Sports Variants",Sport TV 5 (Backup 8/9)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv5backup.m3u8
+
+#EXTINF:-1 tvg-id="sporttv5" tvg-name="Sport TV 5 (Backup)" group-title="Sports Variants",Sport TV 5 (Backup 9/9)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv5backup.m3u8
+
+#EXTINF:-1 tvg-id="sporttv6" tvg-name="Sport TV 6 (Normal)" group-title="Sports Variants",Sport TV 6 (Normal 1/3)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv6.m3u8
+
+#EXTINF:-1 tvg-id="sporttv6" tvg-name="Sport TV 6 (Normal)" group-title="Sports Variants",Sport TV 6 (Normal 2/3)
+https://4.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv6.m3u8
+
+#EXTINF:-1 tvg-id="sporttv6" tvg-name="Sport TV 6 (Normal)" group-title="Sports Variants",Sport TV 6 (Normal 3/3)
+https://lb1s1.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv6.m3u8
+
+#EXTINF:-1 tvg-id="sporttv7" tvg-name="Sport TV 7 (Normal)" group-title="Sports Variants",Sport TV 7 (Normal 1/3)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv7.m3u8
+
+#EXTINF:-1 tvg-id="sporttv7" tvg-name="Sport TV 7 (Normal)" group-title="Sports Variants",Sport TV 7 (Normal 2/3)
+https://4.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv7.m3u8
+
+#EXTINF:-1 tvg-id="sporttv7" tvg-name="Sport TV 7 (Normal)" group-title="Sports Variants",Sport TV 7 (Normal 3/3)
+https://lb1s1.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv7.m3u8
+
+#EXTINF:-1 tvg-id="sportingtv" tvg-name="Sporting TV (Normal)" group-title="Sports Variants",Sporting TV (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sportingtv.m3u8
+
+#EXTINF:-1 tvg-id="sportingtv" tvg-name="Sporting TV (Normal)" group-title="Sports Variants",Sporting TV (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sportingtv.m3u8
+
+#EXTINF:-1 tvg-id="canalq" tvg-name="Canal Q (Normal)" group-title="Portuguese General Variants",Canal Q (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/canalq.m3u8
+
+#EXTINF:-1 tvg-id="canalq" tvg-name="Canal Q (Normal)" group-title="Portuguese General Variants",Canal Q (Normal 2/2)
+https://lb1s1.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/canalq.m3u8
+
+#EXTINF:-1 tvg-id="globoportugal" tvg-name="Globo Portugal (Normal)" group-title="Portuguese General Variants",Globo Portugal (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/globoportugal.m3u8
+
+#EXTINF:-1 tvg-id="globoportugal" tvg-name="Globo Portugal (Normal)" group-title="Portuguese General Variants",Globo Portugal (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/globoportugal.m3u8
+
+#EXTINF:-1 tvg-id="portocanal" tvg-name="Porto Canal (Normal)" group-title="Portuguese General Variants",Porto Canal (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/portocanal.m3u8
+
+#EXTINF:-1 tvg-id="portocanal" tvg-name="Porto Canal (Normal)" group-title="Portuguese General Variants",Porto Canal (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/portocanal.m3u8
+
+#EXTINF:-1 tvg-id="tvrecordportugal" tvg-name="Record TV Portugal (Normal)" group-title="Portuguese General Variants",Record TV Portugal (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvrecordportugal.m3u8
+
+#EXTINF:-1 tvg-id="tvrecordportugal" tvg-name="Record TV Portugal (Normal)" group-title="Portuguese General Variants",Record TV Portugal (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvrecordportugal.m3u8
+
+#EXTINF:-1 tvg-id="rtp1" tvg-name="RTP 1 (Normal)" group-title="Portuguese General Variants",RTP 1 (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/rtp1.m3u8
+
+#EXTINF:-1 tvg-id="rtp1" tvg-name="RTP 1 (Normal)" group-title="Portuguese General Variants",RTP 1 (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/rtp1.m3u8
+
+#EXTINF:-1 tvg-id="rtp2" tvg-name="RTP 2 (Normal)" group-title="Portuguese General Variants",RTP 2 (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/rtp2.m3u8
+
+#EXTINF:-1 tvg-id="rtp2" tvg-name="RTP 2 (Normal)" group-title="Portuguese General Variants",RTP 2 (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/rtp2.m3u8
+
+#EXTINF:-1 tvg-id="sic" tvg-name="SIC (Normal)" group-title="Portuguese General Variants",SIC (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sic.m3u8
+
+#EXTINF:-1 tvg-id="sic" tvg-name="SIC (Normal)" group-title="Portuguese General Variants",SIC (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sic.m3u8
+
+#EXTINF:-1 tvg-id="tvi" tvg-name="TVI (Normal)" group-title="Portuguese General Variants",TVI (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvi.m3u8
+
+#EXTINF:-1 tvg-id="tvi" tvg-name="TVI (Normal)" group-title="Portuguese General Variants",TVI (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvi.m3u8
+
+#EXTINF:-1 tvg-id="vintv" tvg-name="VIN TV (Normal)" group-title="Portuguese General Variants",VIN TV (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/vintv.m3u8
+
+#EXTINF:-1 tvg-id="vintv" tvg-name="VIN TV (Normal)" group-title="Portuguese General Variants",VIN TV (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/vintv.m3u8
+
+#EXTINF:-1 tvg-id="cmtv" tvg-name="CMTV (Normal)" group-title="News Variants",CMTV (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/cmtv.m3u8
+
+#EXTINF:-1 tvg-id="cmtv" tvg-name="CMTV (Normal)" group-title="News Variants",CMTV (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/cmtv.m3u8
+
+#EXTINF:-1 tvg-id="cnnportugal" tvg-name="CNN Portugal (Normal)" group-title="News Variants",CNN Portugal (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvi24.m3u8
+
+#EXTINF:-1 tvg-id="cnnportugal" tvg-name="CNN Portugal (Normal)" group-title="News Variants",CNN Portugal (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvi24.m3u8
+
+#EXTINF:-1 tvg-id="newsnow" tvg-name="News Now (Normal)" group-title="News Variants",News Now (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/newsnow.m3u8
+
+#EXTINF:-1 tvg-id="newsnow" tvg-name="News Now (Normal)" group-title="News Variants",News Now (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/newsnow.m3u8
+
+#EXTINF:-1 tvg-id="rtp3" tvg-name="RTP 3 (Normal)" group-title="News Variants",RTP 3 (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/rtpinformacao.m3u8
+
+#EXTINF:-1 tvg-id="rtp3" tvg-name="RTP 3 (Normal)" group-title="News Variants",RTP 3 (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/rtpinformacao.m3u8
+
+#EXTINF:-1 tvg-id="sicnoticias" tvg-name="SIC Notícias (Normal)" group-title="News Variants",SIC Notícias (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sicnoticias.m3u8
+
+#EXTINF:-1 tvg-id="sicnoticias" tvg-name="SIC Notícias (Normal)" group-title="News Variants",SIC Notícias (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sicnoticias.m3u8
+
+#EXTINF:-1 tvg-id="amc" tvg-name="AMC (Normal)" group-title="Movies & Series Variants",AMC (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/amc.m3u8
+
+#EXTINF:-1 tvg-id="amc" tvg-name="AMC (Normal)" group-title="Movies & Series Variants",AMC (Normal 2/2)
+https://lb1s1.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/amc.m3u8
+
+#EXTINF:-1 tvg-id="axn" tvg-name="AXN (Normal)" group-title="Movies & Series Variants",AXN (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/axn.m3u8
+
+#EXTINF:-1 tvg-id="axn" tvg-name="AXN (Normal)" group-title="Movies & Series Variants",AXN (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/axn.m3u8
+
+#EXTINF:-1 tvg-id="axnblack" tvg-name="AXN Black (Normal)" group-title="Movies & Series Variants",AXN Black (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/axnblack.m3u8
+
+#EXTINF:-1 tvg-id="axnblack" tvg-name="AXN Black (Normal)" group-title="Movies & Series Variants",AXN Black (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/axnblack.m3u8
+
+#EXTINF:-1 tvg-id="axnwhite" tvg-name="AXN White (Normal)" group-title="Movies & Series Variants",AXN White (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/axnwhite.m3u8
+
+#EXTINF:-1 tvg-id="axnwhite" tvg-name="AXN White (Normal)" group-title="Movies & Series Variants",AXN White (Normal 2/2)
+https://3.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/axnwhite.m3u8
+
+#EXTINF:-1 tvg-id="hollywood" tvg-name="Canal Hollywood (Normal)" group-title="Movies & Series Variants",Canal Hollywood (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/hollywood.m3u8
+
+#EXTINF:-1 tvg-id="hollywood" tvg-name="Canal Hollywood (Normal)" group-title="Movies & Series Variants",Canal Hollywood (Normal 2/2)
+https://lb1s1.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/hollywood.m3u8
+
+#EXTINF:-1 tvg-id="cinemundo" tvg-name="Cinemundo (Normal)" group-title="Movies & Series Variants",Cinemundo (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/cinemundo.m3u8
+
+#EXTINF:-1 tvg-id="cinemundo" tvg-name="Cinemundo (Normal)" group-title="Movies & Series Variants",Cinemundo (Normal 2/2)
+https://lb1s1.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/cinemundo.m3u8
+
+#EXTINF:-1 tvg-id="fox" tvg-name="STAR Channel (Normal)" group-title="Movies & Series Variants",STAR Channel (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/fox.m3u8
+
+#EXTINF:-1 tvg-id="fox" tvg-name="STAR Channel (Normal)" group-title="Movies & Series Variants",STAR Channel (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/fox.m3u8
+
+#EXTINF:-1 tvg-id="foxcomedy" tvg-name="STAR Comedy (Normal)" group-title="Movies & Series Variants",STAR Comedy (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/foxcomedy.m3u8
+
+#EXTINF:-1 tvg-id="foxcomedy" tvg-name="STAR Comedy (Normal)" group-title="Movies & Series Variants",STAR Comedy (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/foxcomedy.m3u8
+
+#EXTINF:-1 tvg-id="foxcrime" tvg-name="STAR Crime (Normal)" group-title="Movies & Series Variants",STAR Crime (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/foxcrime.m3u8
+
+#EXTINF:-1 tvg-id="foxcrime" tvg-name="STAR Crime (Normal)" group-title="Movies & Series Variants",STAR Crime (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/foxcrime.m3u8
+
+#EXTINF:-1 tvg-id="foxlife" tvg-name="STAR Life (Normal)" group-title="Movies & Series Variants",STAR Life (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/foxlife.m3u8
+
+#EXTINF:-1 tvg-id="foxlife" tvg-name="STAR Life (Normal)" group-title="Movies & Series Variants",STAR Life (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/foxlife.m3u8
+
+#EXTINF:-1 tvg-id="foxmovies" tvg-name="STAR Movies (Normal)" group-title="Movies & Series Variants",STAR Movies (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/foxmovies.m3u8
+
+#EXTINF:-1 tvg-id="foxmovies" tvg-name="STAR Movies (Normal)" group-title="Movies & Series Variants",STAR Movies (Normal 2/2)
+https://lb1s1.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/foxmovies.m3u8
+
+#EXTINF:-1 tvg-id="syfy" tvg-name="SYFY (Normal)" group-title="Movies & Series Variants",SYFY (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/syfy.m3u8
+
+#EXTINF:-1 tvg-id="syfy" tvg-name="SYFY (Normal)" group-title="Movies & Series Variants",SYFY (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/syfy.m3u8
+
+#EXTINF:-1 tvg-id="tvcine4" tvg-name="TVCine Action (Normal)" group-title="Movies & Series Variants",TVCine Action (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvcine4.m3u8
+
+#EXTINF:-1 tvg-id="tvcine4" tvg-name="TVCine Action (Normal)" group-title="Movies & Series Variants",TVCine Action (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvcine4.m3u8
+
+#EXTINF:-1 tvg-id="tvcine2" tvg-name="TVCine Edition (Normal)" group-title="Movies & Series Variants",TVCine Edition (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvcine2.m3u8
+
+#EXTINF:-1 tvg-id="tvcine2" tvg-name="TVCine Edition (Normal)" group-title="Movies & Series Variants",TVCine Edition (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvcine2.m3u8
+
+#EXTINF:-1 tvg-id="tvcine3" tvg-name="TVCine Emotion (Normal)" group-title="Movies & Series Variants",TVCine Emotion (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvcine3.m3u8
+
+#EXTINF:-1 tvg-id="tvcine3" tvg-name="TVCine Emotion (Normal)" group-title="Movies & Series Variants",TVCine Emotion (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvcine3.m3u8
+
+#EXTINF:-1 tvg-id="tvcine1" tvg-name="TVCine Top (Normal)" group-title="Movies & Series Variants",TVCine Top (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvcine1.m3u8
+
+#EXTINF:-1 tvg-id="tvcine1" tvg-name="TVCine Top (Normal)" group-title="Movies & Series Variants",TVCine Top (Normal 2/2)
+https://lb1s1.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvcine1.m3u8
+
+#EXTINF:-1 tvg-id="tvificcao" tvg-name="TVI Ficção (Normal)" group-title="Movies & Series Variants",TVI Ficção (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvificcao.m3u8
+
+#EXTINF:-1 tvg-id="tvificcao" tvg-name="TVI Ficção (Normal)" group-title="Movies & Series Variants",TVI Ficção (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvificcao.m3u8
+
+#EXTINF:-1 tvg-id="canalpanda" tvg-name="Canal Panda (Normal)" group-title="Kids Variants",Canal Panda (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/canalpanda.m3u8
+
+#EXTINF:-1 tvg-id="canalpanda" tvg-name="Canal Panda (Normal)" group-title="Kids Variants",Canal Panda (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/canalpanda.m3u8
+
+#EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="Cartoon Network (Normal)" group-title="Kids Variants",Cartoon Network (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/cartoonnetwork.m3u8
+
+#EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="Cartoon Network (Normal)" group-title="Kids Variants",Cartoon Network (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/cartoonnetwork.m3u8
+
+#EXTINF:-1 tvg-id="disneychannel" tvg-name="Disney Channel (Normal)" group-title="Kids Variants",Disney Channel (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/disneychannel.m3u8
+
+#EXTINF:-1 tvg-id="disneychannel" tvg-name="Disney Channel (Normal)" group-title="Kids Variants",Disney Channel (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/disneychannel.m3u8
+
+#EXTINF:-1 tvg-id="disneyjunior" tvg-name="Disney Junior (Normal)" group-title="Kids Variants",Disney Junior (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/disneyjunior.m3u8
+
+#EXTINF:-1 tvg-id="disneyjunior" tvg-name="Disney Junior (Normal)" group-title="Kids Variants",Disney Junior (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/disneyjunior.m3u8
+
+#EXTINF:-1 tvg-id="sick" tvg-name="SIC K (Normal)" group-title="Kids Variants",SIC K (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sick.m3u8
+
+#EXTINF:-1 tvg-id="sick" tvg-name="SIC K (Normal)" group-title="Kids Variants",SIC K (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sick.m3u8
+
+#EXTINF:-1 tvg-id="ae" tvg-name="A&E (Normal)" group-title="Documentaries Variants",A&E (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/ae.m3u8
+
+#EXTINF:-1 tvg-id="ae" tvg-name="A&E (Normal)" group-title="Documentaries Variants",A&E (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/ae.m3u8
+
+#EXTINF:-1 tvg-id="ci" tvg-name="Crime + Investigation (Normal)" group-title="Documentaries Variants",Crime + Investigation (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/ci.m3u8
+
+#EXTINF:-1 tvg-id="ci" tvg-name="Crime + Investigation (Normal)" group-title="Documentaries Variants",Crime + Investigation (Normal 2/2)
+https://lb1s1.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/ci.m3u8
+
+#EXTINF:-1 tvg-id="discoverychannel" tvg-name="Discovery Channel (Normal)" group-title="Documentaries Variants",Discovery Channel (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/discoverychannel.m3u8
+
+#EXTINF:-1 tvg-id="discoverychannel" tvg-name="Discovery Channel (Normal)" group-title="Documentaries Variants",Discovery Channel (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/discoverychannel.m3u8
+
+#EXTINF:-1 tvg-id="historia" tvg-name="História (Normal)" group-title="Documentaries Variants",História (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/historia.m3u8
+
+#EXTINF:-1 tvg-id="historia" tvg-name="História (Normal)" group-title="Documentaries Variants",História (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/historia.m3u8
+
+#EXTINF:-1 tvg-id="nationalgeographic" tvg-name="National Geographic (Normal)" group-title="Documentaries Variants",National Geographic (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/nationalgeographic.m3u8
+
+#EXTINF:-1 tvg-id="nationalgeographic" tvg-name="National Geographic (Normal)" group-title="Documentaries Variants",National Geographic (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/nationalgeographic.m3u8
+
+#EXTINF:-1 tvg-id="natgeowild" tvg-name="National Geographic Wild (Normal)" group-title="Documentaries Variants",National Geographic Wild (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/natgeowild.m3u8
+
+#EXTINF:-1 tvg-id="natgeowild" tvg-name="National Geographic Wild (Normal)" group-title="Documentaries Variants",National Geographic Wild (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/natgeowild.m3u8
+
+#EXTINF:-1 tvg-id="odisseia" tvg-name="Odisseia (Normal)" group-title="Documentaries Variants",Odisseia (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/odisseia.m3u8
+
+#EXTINF:-1 tvg-id="odisseia" tvg-name="Odisseia (Normal)" group-title="Documentaries Variants",Odisseia (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/odisseia.m3u8
+
+#EXTINF:-1 tvg-id="tlc" tvg-name="TLC (Normal)" group-title="Documentaries Variants",TLC (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tlc.m3u8
+
+#EXTINF:-1 tvg-id="tlc" tvg-name="TLC (Normal)" group-title="Documentaries Variants",TLC (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tlc.m3u8
+
+#EXTINF:-1 tvg-id="24kitchen" tvg-name="24 Kitchen (Normal)" group-title="Lifestyle Variants",24 Kitchen (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/24kitchen.m3u8
+
+#EXTINF:-1 tvg-id="24kitchen" tvg-name="24 Kitchen (Normal)" group-title="Lifestyle Variants",24 Kitchen (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/24kitchen.m3u8
+
+#EXTINF:-1 tvg-id="e" tvg-name="E! (Normal)" group-title="Lifestyle Variants",E! (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/e.m3u8
+
+#EXTINF:-1 tvg-id="e" tvg-name="E! (Normal)" group-title="Lifestyle Variants",E! (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/e.m3u8
+
+#EXTINF:-1 tvg-id="siccaras" tvg-name="SIC Caras (Normal)" group-title="Lifestyle Variants",SIC Caras (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/siccaras.m3u8
+
+#EXTINF:-1 tvg-id="siccaras" tvg-name="SIC Caras (Normal)" group-title="Lifestyle Variants",SIC Caras (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/siccaras.m3u8
+
+#EXTINF:-1 tvg-id="sicmulher" tvg-name="SIC Mulher (Normal)" group-title="Lifestyle Variants",SIC Mulher (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sicmulher.m3u8
+
+#EXTINF:-1 tvg-id="sicmulher" tvg-name="SIC Mulher (Normal)" group-title="Lifestyle Variants",SIC Mulher (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sicmulher.m3u8
+
+#EXTINF:-1 tvg-id="tvireality" tvg-name="TVI Reality (Normal)" group-title="Lifestyle Variants",TVI Reality (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvireality.m3u8
+
+#EXTINF:-1 tvg-id="tvireality" tvg-name="TVI Reality (Normal)" group-title="Lifestyle Variants",TVI Reality (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvireality.m3u8
+
+#EXTINF:-1 tvg-id="afromusicchannel" tvg-name="Afro Music Channel (Normal)" group-title="Music Variants",Afro Music Channel (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/afromusicchannel.m3u8
+
+#EXTINF:-1 tvg-id="afromusicchannel" tvg-name="Afro Music Channel (Normal)" group-title="Music Variants",Afro Music Channel (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/afromusicchannel.m3u8
+
+#EXTINF:-1 tvg-id="mtvportugal" tvg-name="MTV Portugal (Normal)" group-title="Music Variants",MTV Portugal (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/mtvportugal.m3u8
+
+#EXTINF:-1 tvg-id="mtvportugal" tvg-name="MTV Portugal (Normal)" group-title="Music Variants",MTV Portugal (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/mtvportugal.m3u8
+
+#EXTINF:-1 tvg-id="traceurban" tvg-name="Trace Urban (Normal)" group-title="Music Variants",Trace Urban (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/traceurban.m3u8
+
+#EXTINF:-1 tvg-id="traceurban" tvg-name="Trace Urban (Normal)" group-title="Music Variants",Trace Urban (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/traceurban.m3u8
+
+#EXTINF:-1 tvg-id="rtpacores" tvg-name="RTP Açores (Normal)" group-title="Regional & RTP Variants",RTP Açores (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/rtpacores.m3u8
+
+#EXTINF:-1 tvg-id="rtpacores" tvg-name="RTP Açores (Normal)" group-title="Regional & RTP Variants",RTP Açores (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/rtpacores.m3u8
+
+#EXTINF:-1 tvg-id="rtpmadeira" tvg-name="RTP Madeira (Normal)" group-title="Regional & RTP Variants",RTP Madeira (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/rtpmadeira.m3u8
+
+#EXTINF:-1 tvg-id="rtpmadeira" tvg-name="RTP Madeira (Normal)" group-title="Regional & RTP Variants",RTP Madeira (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/rtpmadeira.m3u8
+
+#EXTINF:-1 tvg-id="rtpmemoria" tvg-name="RTP Memória (Normal)" group-title="Regional & RTP Variants",RTP Memória (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/rtpmemoria.m3u8
+
+#EXTINF:-1 tvg-id="rtpmemoria" tvg-name="RTP Memória (Normal)" group-title="Regional & RTP Variants",RTP Memória (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/rtpmemoria.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name=" (Normal)" group-title="Other Variants", (Normal 1/1)
+https://your-m3u8-url-here.m3u8
+
+#EXTINF:-1 tvg-id="sicradical" tvg-name="SIC Radical (Normal)" group-title="Other Variants",SIC Radical (Normal 1/2)
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sicradical.m3u8
+
+#EXTINF:-1 tvg-id="sicradical" tvg-name="SIC Radical (Normal)" group-title="Other Variants",SIC Radical (Normal 2/2)
+https://lb1s2.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sicradical.m3u8
